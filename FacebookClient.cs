@@ -23,6 +23,7 @@ namespace ConsoleApplication
             {
                 BaseAddress = new Uri("https://graph.facebook.com/v2.8/")
             };
+            //changes made for testing 
             _httpClient.DefaultRequestHeaders
                 .Accept
                 .Add(new MediaTypeWithQualityHeaderValue("application/json"));
@@ -33,6 +34,9 @@ namespace ConsoleApplication
             var response = await _httpClient.GetAsync($"{endpoint}?access_token={accessToken}&{args}");
             if (!response.IsSuccessStatusCode)
                 return default(T);
+            //changes made for testing 
+            //changes made for testing 
+            //changes made for testing 
 
             var result = await response.Content.ReadAsStringAsync();
 
