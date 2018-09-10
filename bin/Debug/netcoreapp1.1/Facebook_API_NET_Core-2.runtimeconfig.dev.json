@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/teika/.dotnet/store/|arch|/|tfm|",
+      "/Users/teika/.nuget/packages"
+    ]
+  }
+}

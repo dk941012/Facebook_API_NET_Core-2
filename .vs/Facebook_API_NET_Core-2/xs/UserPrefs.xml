@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{1E0A65AA-D168-4EBD-84E1-84B8B13AA64C}|Default">
+  <MonoDevelop.Ide.ItemProperties.Facebook__API__NET__Core-2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Account.cs">
+    <Files>
+      <File FileName="Account.cs" Line="14" Column="2" />
+      <File FileName="FacebookClient.cs" Line="1" Column="1" />
+      <File FileName="FacebookService.cs" Line="1" Column="1" />
+      <File FileName="Program.cs" Line="1" Column="1" />
+      <File FileName="FacebookSettings.cs" Line="1" Column="1" />
+      <File FileName="project.json" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

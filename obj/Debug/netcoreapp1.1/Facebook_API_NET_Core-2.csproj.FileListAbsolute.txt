@@ -1,0 +1,10 @@
+/Users/teika/Downloads/Facebook_API_NET_Core-2/bin/Debug/netcoreapp1.1/Facebook_API_NET_Core-2.deps.json
+/Users/teika/Downloads/Facebook_API_NET_Core-2/bin/Debug/netcoreapp1.1/Facebook_API_NET_Core-2.runtimeconfig.json
+/Users/teika/Downloads/Facebook_API_NET_Core-2/bin/Debug/netcoreapp1.1/Facebook_API_NET_Core-2.runtimeconfig.dev.json
+/Users/teika/Downloads/Facebook_API_NET_Core-2/bin/Debug/netcoreapp1.1/Facebook_API_NET_Core-2.dll
+/Users/teika/Downloads/Facebook_API_NET_Core-2/bin/Debug/netcoreapp1.1/Facebook_API_NET_Core-2.pdb
+/Users/teika/Downloads/Facebook_API_NET_Core-2/obj/Debug/netcoreapp1.1/Facebook_API_NET_Core-2.csproj.CoreCompileInputs.cache
+/Users/teika/Downloads/Facebook_API_NET_Core-2/obj/Debug/netcoreapp1.1/Facebook_API_NET_Core-2.AssemblyInfoInputs.cache
+/Users/teika/Downloads/Facebook_API_NET_Core-2/obj/Debug/netcoreapp1.1/Facebook_API_NET_Core-2.AssemblyInfo.cs
+/Users/teika/Downloads/Facebook_API_NET_Core-2/obj/Debug/netcoreapp1.1/Facebook_API_NET_Core-2.dll
+/Users/teika/Downloads/Facebook_API_NET_Core-2/obj/Debug/netcoreapp1.1/Facebook_API_NET_Core-2.pdb
